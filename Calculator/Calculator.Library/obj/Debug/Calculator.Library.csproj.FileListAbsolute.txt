@@ -1,0 +1,12 @@
+C:\Users\sulav\Desktop\TestingDemo\Calculator\Calculator.Library\bin\Debug\Calculator.Library.dll
+C:\Users\sulav\Desktop\TestingDemo\Calculator\Calculator.Library\bin\Debug\Calculator.Library.pdb
+C:\Users\sulav\Desktop\TestingDemo\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csprojAssemblyReference.cache
+C:\Users\sulav\Desktop\TestingDemo\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csproj.CoreCompileInputs.cache
+C:\Users\sulav\Desktop\TestingDemo\Calculator\Calculator.Library\obj\Debug\Calculator.Library.dll
+C:\Users\sulav\Desktop\TestingDemo\Calculator\Calculator.Library\obj\Debug\Calculator.Library.pdb
+C:\Users\bisha\Source\Repos\Testing2\Calculator\Calculator.Library\bin\Debug\Calculator.Library.dll
+C:\Users\bisha\Source\Repos\Testing2\Calculator\Calculator.Library\bin\Debug\Calculator.Library.pdb
+C:\Users\bisha\Source\Repos\Testing2\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csprojAssemblyReference.cache
+C:\Users\bisha\Source\Repos\Testing2\Calculator\Calculator.Library\obj\Debug\Calculator.Library.csproj.CoreCompileInputs.cache
+C:\Users\bisha\Source\Repos\Testing2\Calculator\Calculator.Library\obj\Debug\Calculator.Library.dll
+C:\Users\bisha\Source\Repos\Testing2\Calculator\Calculator.Library\obj\Debug\Calculator.Library.pdb
